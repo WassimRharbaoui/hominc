@@ -12,7 +12,8 @@ This work, and its terminology, are based on [[1]](#ref1) et [[2]](#ref2).
 
 Dependencies
 -----------
-  - cmake
+
+    - cmake
 	- CHomP (provided)
 	- Boost (SERIALIZATION, THREAD)
 	- GMP (MPIR on Windows)
